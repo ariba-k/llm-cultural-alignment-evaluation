@@ -1,0 +1,5 @@
+model_name,likert_scale,question_num,Cover_Letter_Rating,Cover_Letter_Explanation,High_Power_Distance_Cover_Letter_Rating,High_Power_Distance_Cover_Letter_Explanation,Low_Power_Distance_Cover_Letter_Rating,Low_Power_Distance_Cover_Letter_Explanation,Individualism_Cover_Letter_Rating,Individualism_Cover_Letter_Explanation,Collectivism_Cover_Letter_Rating,Collectivism_Cover_Letter_Explanation,Masculinity_Cover_Letter_Rating,Masculinity_Cover_Letter_Explanation,Femininity_Cover_Letter_Rating,Femininity_Cover_Letter_Explanation
+claude-3-5-sonnet-20241022,5,1,2,,3,,4,,3,,5,,2,,4,
+claude-3-5-sonnet-20241022,5,2,4,,3,,5,,2,,5,,4,,3,
+gpt-4o,5,1,3,,4,,4,,4,,5,,4,,5,
+gpt-4o,5,2,4,,5,,5,,4,,5,,4,,5,

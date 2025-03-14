@@ -1,0 +1,4 @@
+country,normalized_score_standard,normalized_score_forced
+India,0.5,0.6666666666666666
+China,0.5,0.5
+United States,0.5,0.3333333333333333

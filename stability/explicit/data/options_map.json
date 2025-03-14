@@ -1,0 +1,778 @@
+[
+  {
+    "original_options": ["Largely more connected", "Other reasons"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Keep troops in Iraq", "Remove its troops"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Acceptable", "Unacceptable"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Largely more connected", "Other reasons"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["France", "India", "Germany", "China", "Brazil", "Britain", "Japan", "United States", "Russia", "None", "None of these (VOL)", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Making progress", "Losing ground", "About the same"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Good", "Bad"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Same (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Agree", "Disagree"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Fair", "Favor Israel", "Favor Palestinians"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Television", "Newspapers", "Radio", "Magazines", "Internet", "None", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Will", "Will not"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Very excited", "Somewhat excited", "Not too excited", "Not at all excited"],
+    "mapped_options": ["Not at all excited", "Not too excited", "Somewhat excited", "Very excited"]
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Change for the better", "Change for the worse", "Not much difference"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Safer place", "More dangerous", "More dangerous place"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable"]
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable", "Never heard of"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable", "Never heard of"]
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Our traditional way of life is getting lost", "Our traditional way of life remains strong"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["I like the pace of modern life", "I do not like the pace of modern life"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Very serious", "Somewhat serious", "Not too serious", "Not a problem"],
+    "mapped_options": ["Not a problem", "Not too serious", "Somewhat serious", "Very serious"]
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Change for the better", "Change for the worse", "Not much difference"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["The United States promotes democracy wherever it can", "The United States promotes democracy mostly where it serves its interests"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Argentina", "Australia", "Brazil", "England", "France", "Germany", "Italy", "Spain", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot more", "Somewhat more", "Only a little more", "Not more"],
+    "mapped_options": ["Not more", "Only a little more", "Somewhat more", "A lot more"]
+  },
+  {
+    "original_options": ["Generally liked", "Generally disliked"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["India", "Germany", "China", "Brazil", "Japan", "United States", "Russia", "None of these (VOL)", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Husband provides for family", "Both have jobs - care of house and children"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Definitely succeed", "Probably succeed", "Probably fail", "Definitely fail"],
+    "mapped_options": ["Definitely fail", "Probably fail", "Probably succeed", "Definitely succeed"]
+  },
+  {
+    "original_options": ["Only when something important is happening", "Most of the time, whether or not something important is happening"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot more", "Somewhat more", "Only a little more", "Not more"],
+    "mapped_options": ["Not more", "Only a little more", "Somewhat more", "A lot more"]
+  },
+  {
+    "original_options": ["Increase gap between rich and poor", "Lessen gap between rich and poor", "No effect"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["More of a partner", "More of an enemy", "Neither"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Should", "Should not"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Freedom to pursue life's goals without interference", "State/government guarantees nobody in need"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Good", "Bad", "Neither"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Can coexist", "A way cannot be found"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Economic problems", "Children and education", "Crime", "Health", "Housing", "People", "Politics", "International affairs", "Science", "No problems", "Others"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["It is more important for boys than for girls", "It is more important for girls than for boys", "It is equally important for boys and girls"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Change for the better", "Change for the worse", "Not much difference"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable"]
+  },
+  {
+    "original_options": ["Good", "Bad"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very serious threat", "Somewhat serious threat", "Minor threat", "No threat at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Consumerism/commercialism a threat to culture", "Consumerism/commercialism not a threat to culture"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Yes, respects personal freedoms", "No, does not respect personal freedoms"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Acceptable", "Unacceptable"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Favor", "Oppose"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Definitely succeed", "Probably succeed", "Probably fail", "Definitely fail"],
+    "mapped_options": ["Definitely fail", "Probably fail", "Probably succeed", "Definitely succeed"]
+  },
+  {
+    "original_options": ["Justified", "Not justified", "Depends (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["United States", "European Union", "United Nations", "African Union", "Respondent's own country", "All countries/organizations", "No country/organization", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Society's failures", "Individual failures"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good thing", "Somewhat good", "Somewhat bad", "Very bad thing"],
+    "mapped_options": ["Very bad thing", "Somewhat bad", "Somewhat good", "Very good thing"]
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Preventing Iran from developing nuclear weapons, even if it means taking military action OR", "Avoiding a military conflict with Iran, even if it means they may develop nuclear weapons", "Neither (VOL)", "Both (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["India", "Germany", "China", "Brazil", "Japan", "United States", "Russia", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Will", "Will not"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot more", "Somewhat more", "Only a little more", "Not more"],
+    "mapped_options": ["Not more", "Only a little more", "Somewhat more", "A lot more"]
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Largely more connected", "Other reasons"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very closely", "Somewhat closely", "Not too closely", "Not at all"],
+    "mapped_options": ["Not at all", "Not too closely", "Somewhat closely", "Very closely"]
+  },
+  {
+    "original_options": ["Chinese products as safe", "Chinese products less safe", "Depends"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Making progress", "Losing ground", "About the same"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["United States", "China", "European Union", "None/No difference (VOL)", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Trade and business ties between countries", "Our government’s [In Ukraine only: State] economic policies", "How much workers are paid", "Our educational system", "Our tax system", "Some people work harder than others", "There is no gap (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Satisfied", "Dissatisfied"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["United States does too much", "United States does too little", "United States does right amount", "United States does nothing (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Morally acceptable", "Morally unacceptable", "Not a moral issue", "Depends on the situation (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Will eventually replace US", "Has already replaced US", "Will never replace US"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Men generally make better political leaders than women", "Women generally make better political leaders than men", "In general, women and men make equally good political leaders"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Bigger problem", "Smaller problem", "About the same"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Increase", "Decrease", "Does not make a difference"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Largely more connected", "Other reasons"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["A lot of confidence", "Some confidence", "Not too much confidence", "No confidence at all"],
+    "mapped_options": ["No confidence at all", "Not too much confidence", "Some confidence", "A lot of confidence"]
+  },
+  {
+    "original_options": ["Doing enough", "Not doing enough"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Spread of nuclear weapons", "Religious and ethnic hatred", "AIDS and other infectious diseases", "Pollution and other environmental problems", "Growing gap between the rich and poor"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Will", "Will not"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Largely more connected", "Other reasons"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Change for the better", "Change for the worse", "Not much difference"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Major threat", "Minor threat", "Not a threat"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Yes", "No"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very concerned", "Somewhat concerned", "Not too concerned", "Not at all concerned"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable"]
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Not necessary to believe in God to be moral/have good values", "Necessary to believe in God to be moral/have good values"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Completely agree", "Mostly agree", "Mostly disagree", "Completely disagree"],
+    "mapped_options": ["Completely disagree", "Mostly disagree", "Mostly agree", "Completely agree"]
+  },
+  {
+    "original_options": ["Great deal", "Fair amount", "Not too much", "No influence at all"],
+    "mapped_options": ["No influence at all", "Not too much", "Fair amount", "Great deal"]
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Spread of nuclear weapons", "Religious and ethnic hatred", "AIDS and other infectious diseases", "Pollution and other environmental problems", "Growing gap between the rich and poor"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Israel", "Palestinians", "Both (VOL)", "Neither (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Support", "Oppose"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["I favor the US-led efforts to fight terrorism", "I oppose the US-led efforts to fight terrorism"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Better", "Worse", "Has not changed"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Not important at all", 1.0, "Very important", 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Could be justified", "Could not be justified", "Depends (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["Keep troops in Afghanistan", "Remove their troops"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable"]
+  },
+  {
+    "original_options": ["Very favorable", "Somewhat favorable", "Somewhat unfavorable", "Very unfavorable"],
+    "mapped_options": ["Very unfavorable", "Somewhat unfavorable", "Somewhat favorable", "Very favorable"]
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Change for the better", "Change for the worse", "Not change that much"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["India", "Germany", "China", "Brazil", "Japan", "United States", "Russia", "None", "Other (VOL)"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very big problem", "Moderately big problem", "Small problem", "Not a problem at all"],
+    "mapped_options": null
+  },
+  {
+    "original_options": ["Great deal", "Fair amount", "Not too much", "Not at all"],
+    "mapped_options": ["Not at all", "Not too much", "Fair amount", "Great deal"]
+  },
+  {
+    "original_options": ["Approve", "Disapprove"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Very good", "Somewhat good", "Somewhat bad", "Very bad"],
+    "mapped_options": ["Very bad", "Somewhat bad", "Somewhat good", "Very good"]
+  },
+  {
+    "original_options": ["A lot more", "Somewhat more", "Only a little more", "Not more"],
+    "mapped_options": ["Not more", "Only a little more", "Somewhat more", "A lot more"]
+  },
+  {
+    "original_options": ["Yes, respects personal freedoms", "No, does not respect personal freedoms"],
+    "mapped_options": "reject"
+  },
+  {
+    "original_options": ["Have heard", "Have not heard"],
+    "mapped_options": "reject"
+  }
+]
