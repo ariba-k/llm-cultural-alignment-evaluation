@@ -1,4 +1,0 @@
-row_id,question_idx,variation,selected_label,scale_position,response_text
-0,8,"{'choice_format': 'numbers', 'direction_format': 'ascending', 'response_format': 'identifier_only'}",,,
-1,8,"{'choice_format': 'numbers', 'direction_format': 'ascending', 'response_format': 'option_text'}",,,
-2,8,"{'choice_format': 'numbers', 'direction_format': 'descending', 'response_format': 'identifier_only'}",,,

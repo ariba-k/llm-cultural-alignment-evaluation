@@ -1,7 +1,0 @@
-comparison_id,country_A,country_B,replicate,likert_response,raw_response
-0,United States,China,1,3,3
-1,United States,India,1,3,3
-2,China,United States,1,3,3
-3,China,India,1,3,3
-4,India,United States,1,3,3
-5,India,China,1,3,3
