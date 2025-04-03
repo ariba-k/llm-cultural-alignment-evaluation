@@ -1,5 +1,4 @@
-# Ignore all folders named 'results' or containing 'results' in their name
 *results*/
-
-# Ignore all folders named 'analysis' or containing 'analysis' in their name
 *analysis*/
+.idea/
+.DS_Store

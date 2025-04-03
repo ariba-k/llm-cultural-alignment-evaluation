@@ -23,6 +23,22 @@ Our experiments use a combination of external datasets and internally generated 
 
 - `data_implicit_stability.py`: Creates culturally distinct cover letter versions across Hofstede's dimensions to evaluate implicit cultural biases.
 
+### Hugging Face Dataset
+
+We've also made our dataset available on Hugging Face: [cultural-dimension-cover-letters](https://huggingface.co/datasets/akhan02/cultural-dimension-cover-letters)
+
+The Hugging Face version of the dataset consolidates all cultural dimensions into a single CSV file (`cultural_dimension_cover_letters.csv`) with 13 columns: one column for the original cover letter and 12 columns representing each pole of the six cultural dimensions (individualism/collectivism, long-term/short-term orientation, masculinity/femininity, high/low power distance, high/low uncertainty avoidance, and indulgence/restraint).
+
+Our code in `data_implicit_stability.py` generates the dataset in separate files for each dimension:
+1. Individualism vs. Collectivism (idv.xlsx)
+2. Long-Term vs. Short-Term Orientation (lto.xlsx)
+3. Masculinity vs. Femininity (mas.xlsx)
+4. High vs. Low Power Distance (pdi.xlsx)
+5. High vs. Low Uncertainty Avoidance (uai.xlsx)
+6. Indulgence vs. Restraint (ivr.xlsx)
+
+The Hugging Face dataset simply provides an alternative consolidated format for ease of external use.
+
 ## Requirements
 
 To install dependencies:

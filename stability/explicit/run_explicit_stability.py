@@ -262,4 +262,4 @@ def main(num_rows: Optional[int] = None):
 
 
 if __name__ == "__main__":
-    main(3)
+    main()
