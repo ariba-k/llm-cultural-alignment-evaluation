@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score, silhouette_score
 from sklearn.preprocessing import StandardScaler
 
-from stability.implicit.constants_implicit_stability import DIMENSION_NAME_MAP
+from constants import DIMENSION_NAME_MAP
 from style import (apply_standard_style, style_axis, add_significance_annotation,
                    COLORS, DPI, LEGEND_SIZE, LABEL_SIZE, TICK_SIZE)
 

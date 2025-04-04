@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from typing import Optional, Tuple
 from matplotlib.patches import Patch
-from stability.implicit.constants_implicit_stability import DIMENSION_MAP, DIMENSION_NAME_MAP
+from constants import DIMENSION_MAP, DIMENSION_NAME_MAP
 from style import (apply_standard_style, style_axis, add_significance_annotation,
                    COLORS, DPI, TICK_SIZE, LABEL_SIZE, LEGEND_SIZE)
 

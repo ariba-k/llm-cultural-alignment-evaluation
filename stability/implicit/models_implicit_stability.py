@@ -10,8 +10,8 @@ import pandas as pd
 from mistralai import Mistral
 
 from environment import TokenManager
-from stability.implicit.constants_implicit_stability import MODEL_TOKEN_LIMITS, DIMENSION_MAP
-from stability.implicit.util_implicit_stability import (
+from constants import MODEL_TOKEN_LIMITS, DIMENSION_MAP
+from stability.implicit.utils_implicit_stability import (
     get_likert_scale_data, count_tokens, extract_rating_from_string, get_label_to_rating_mapping)
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"

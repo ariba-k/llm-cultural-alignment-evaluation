@@ -2,7 +2,8 @@ import pandas as pd
 import os
 import re
 from typing import Tuple, Optional, List, Dict, Any
-from stability.implicit.constants_implicit_stability import Parameters, DIMENSION_MAP
+from stability.implicit.constants_implicit_stability import Parameters
+from constants import DIMENSION_MAP
 from environment import MODEL_MAP
 from models import get_experiment_instance
 

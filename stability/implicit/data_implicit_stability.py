@@ -6,7 +6,7 @@ from datasets import load_dataset
 import openai
 from typing import Tuple, List, Dict
 
-from stability.implicit.constants_implicit_stability import DIMENSION_MAP
+from constants import DIMENSION_MAP
 from environment import TokenManager
 
 
